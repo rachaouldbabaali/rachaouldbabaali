@@ -3,7 +3,7 @@
 
 ![giphy (2)](https://user-images.githubusercontent.com/33148222/229833299-9dbe9692-0e6e-4248-bc37-79210b80cabd.gif)
 
-<br> Currently enrolled in Microverse as a full-stack web developer.<br> I have always been passionate about technologies and how it can be used to solve real-world problems.<br> After discovering my passion for coding, I decided to pursue a career in web/mobile-development.<br><br>🌱 I’m currently available for hiring .<br><br>🔭 I’m currently working with, Html and CSS.<br><br>💬 Ask me about Html, CSS, and JavaScript.<br><br>📫 You can send me an email at rachaould@gmail.com I'll try to respond as soon as I can.<br><br>
+<br> Currently enrolled in Microverse as a full-stack web developer.<br> I have always been passionate about technologies and how it can be used to solve real-world problems.<br> After discovering my passion for coding, I decided to pursue a career in web/mobile-development.<br><br>🌱 I’m currently available for hiring .<br><br>🔭 I’m currently working with, Ruby, React, React-Redux, TypeScript, JavaScript, Html, and CSS.<br><br>💬 Ask me about Ruby and React.<br><br>📫 You can send me an email at rachaould@gmail.com I'll try to respond as soon as I can.<br><br>
 
 
 ## 🌐 Socials:
