@@ -1,4 +1,4 @@
-# 💫 Hello 👋 I'm Racha Ouldbabaali 💍:
+# 💫 Hello 👋 I'm Racha Ouldbabaali:
 <br>
 
 ![giphy (2)](https://user-images.githubusercontent.com/33148222/229833299-9dbe9692-0e6e-4248-bc37-79210b80cabd.gif)
